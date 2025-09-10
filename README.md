@@ -1,2 +1,4 @@
-# megadrive-cartridge-accolade-acsgpc291
-Megadrive/Genesis Cartridge Accolade ACSGPC291
+# Megadrive/Genesis Cartridge PCBs
+
+## Accolade
+ACSGPC291 16-Mbit with JEDEC pinout
