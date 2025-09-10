@@ -4,7 +4,17 @@
 
 ## Example games
 
-Sonic 1
+|Game|Chip label|
+|---|---|
+|Sonic 1|MPR-13933-F|
+
+## BOM
+
+|Designator|Value|
+|---|---|
+|C1|47uF 16V|
+|C2||
+|IC1|See above|
 
 ## Board scans
 
