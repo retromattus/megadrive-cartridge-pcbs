@@ -1,4 +1,4 @@
-# Accolade ACSGPC291
+# Accolade / ACSGPC291
 
 16-Mbit with JEDEC pinout
 
@@ -8,6 +8,6 @@ Bubsy
 
 ## Board scans
 
-![Front](board scans/accolade-acsgpc291-front.jpeg)
+![Front](board-scans/accolade-acsgpc291-front.jpeg)
 
-![Back](board scans/accolade-acsgpc291-back.jpeg)
+![Back](board-scans/accolade-acsgpc291-back.jpeg)
