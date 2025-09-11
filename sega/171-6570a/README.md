@@ -6,7 +6,22 @@ CE switching by A21 using 7400 NAND gates.
 
 ## Example games
 
-Mega Games 6
+
+|Game|IC1 chip label|IC2 chip label|IC3 chip label|
+|---|---|---|---|
+|Mega Games 6 Vol. 1 (Europe)|MPR-18002-U|MPR-18003-U|SN74HC00N|
+
+## BOM
+
+|Designator|Value|
+|---|---|
+|C1||
+|C2||
+|C2||
+|CE|47uF 16V Electrolytic|
+|IC1|See chip label above|
+|IC2|See chip label above|
+|IC3|See chip label above|
 
 ## Board scans
 

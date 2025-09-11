@@ -4,7 +4,17 @@
 
 ## Example games
 
-Fatal Fury
+|Game|IC1 chip label|
+|---|---|
+|Fatal Fury - King of Fighters (Europe, Korea)|MPR-15418-H|
+
+## BOM
+
+|Designator|Value|
+|---|---|
+|C1|47uF 16V Electrolytic|
+|C2||
+|IC1|See chip label above|
 
 ## Board scans
 

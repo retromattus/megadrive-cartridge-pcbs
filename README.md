@@ -2,9 +2,11 @@
 
 ## Accolade
 
-[ACSGPC291](accolade/acsgpc291/)
+[ACSGPC291 Rev B](accolade/acsgpc291-rev-b/)
 
 ## Electronic Arts
+
+[PWA P10001 Rev F](electronic-arts/pwa-p10001-rev-f)
 
 [PWA P10001 Rev K](electronic-arts/pwa-p10001-rev-k)
 

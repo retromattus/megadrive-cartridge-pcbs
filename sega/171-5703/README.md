@@ -4,17 +4,17 @@
 
 ## Example games
 
-|Game|Chip label|
+|Game|IC1 chip label|
 |---|---|
-|Sonic 1|MPR-13933-F|
+|Sonic The Hedgehog|MPR-13933-F|
 
 ## BOM
 
 |Designator|Value|
 |---|---|
-|C1|47uF 16V|
+|C1|47uF 16V Electrolytic|
 |C2||
-|IC1|See above|
+|IC1|See chip label above|
 
 ## Board scans
 
