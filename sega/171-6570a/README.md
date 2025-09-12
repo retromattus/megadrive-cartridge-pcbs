@@ -15,10 +15,10 @@ CE switching by A21 using 7400 NAND gates.
 
 |Designator|Value|
 |---|---|
-|C1||
-|C2||
-|C2||
-|CE|47uF 16V Electrolytic|
+|C1|22nF multilayer ceramic capacitors - leaded|
+|C2|22nF multilayer ceramic capacitors - leaded|
+|C2|22nF multilayer ceramic capacitors - leaded|
+|CE|47uF 16V aluminium electrolytic capacitors - leaded|
 |IC1|See chip label above|
 |IC2|See chip label above|
 |IC3|See chip label above|
