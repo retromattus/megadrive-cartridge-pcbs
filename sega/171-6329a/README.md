@@ -7,13 +7,15 @@
 |Game|IC1 chip label|
 |---|---|
 |Fatal Fury - King of Fighters (Europe, Korea)|MPR-15418-H|
+|Disney's Aladdin (Europe)|MPR-15939-T|
+|Astérix and the Power of the Gods (Europe)|MPR-17719-H|
 
 ## BOM
 
 |Designator|Value|
 |---|---|
-|C1|47uF 16V Electrolytic|
-|C2||
+|C1|47uF 16V aluminium electrolytic capacitors - leaded|
+|C2|22nf multilayer ceramic capacitors - leaded|
 |IC1|See chip label above|
 
 ## Board scans
