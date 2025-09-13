@@ -1,4 +1,4 @@
-# SEGA / 171-5978BA
+# SEGA / 171-5978B
 
 8-Mbit with JEDEC pinout
 
@@ -6,10 +6,7 @@
 
 |Game|IC1 chip label|
 |---|---|
-|Another World (Europe)|MPR-15498-H|
-|Chuck Rock II - Son of Chuck (Europe)|MPR-15715 T58|
-|Dr. Robotnik's Mean Bean Machine (Europe)|MPR-16172-MX|
-|Dune II||
+|Bio-Hazard Battle (Europe, USA)|MPR-15204 W97|
 
 ## BOM
 

@@ -10,6 +10,7 @@ Capacity depends on the board revision: Upto Rev G = 8M, Rev H = 8M or 16M (patc
 |---|---|
 |Risky Woods (Europe, USA)|RISKY RIS18|
 |Power Monger (Europe, USA)|POWERMONGER PM14|
+|Desert Strike - Return to the Gulf (Europe, USA)|Desert DES08 7022|
 
 ## BOM
 
