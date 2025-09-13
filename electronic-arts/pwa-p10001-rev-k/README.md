@@ -14,8 +14,8 @@ Capacity depends on the board revision: Upto Rev G = 8M, Rev H = 8M or 16M (patc
 
 |Designator|Value|
 |---|---|
-|C1||
-|C4|47uF 16V Electrolytic|
+|C1|100nF multilayer ceramic capacitors - leaded|
+|C4|47uF 16V aluminium electrolytic capacitors - leaded|
 |U1|See chip label above|
 
 ## Board scans
