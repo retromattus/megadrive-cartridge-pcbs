@@ -11,6 +11,7 @@
 |Dick Tracy (World)|MPR-13661-H|
 |Dragon's Fury (Europe, USA)|MPR-14931-SM|
 |Sonic The Hedgehog (Japan, Korea)|MPR-13933-F|
+|Super Monaco GP (Japan)|MPR-13215|
 
 ## BOM
 
