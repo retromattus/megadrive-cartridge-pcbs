@@ -17,8 +17,8 @@ Bubsy
 
 |Designator|Value|
 |---|---|
-|C1|47uF 16V Electrolytic|
-|C2||
+|C1|47uF 16V aluminium electrolytic capacitors - leaded|
+|C2|100nF multilayer ceramic capacitors - leaded|
 |IC1|See chip label above|
 
 ## Board scans
